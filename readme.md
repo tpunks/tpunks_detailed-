@@ -1,5 +1,5 @@
 Tpunks: Collectible Characters on the Tron Blockchain
-TPunks are 10,000 unique collectible characters with proof of ownership stored on the Tron blockchain. No two are exactly alike, and each one of them can be officially owned by a single person as managed and verified by a contract running on the Tron blockchain. You can see which punks are still available along with some more general information over at https://tronpunklabs.com/
+TPunks are 10,000 unique collectible characters with proof of ownership stored on the Tron blockchain. No two are exactly alike, and each one of them can be officially owned by a single person as managed and verified by a contract running on the Tron blockchain. You can see which punks are still available along with some more general information over at https:/tpunks.com/
 
 Once you are watching the contract you can execute the following functions to transact punks:
 
